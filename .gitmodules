@@ -1,0 +1,3 @@
+[submodule "sbrbase"]
+	path = sbrbase
+	url = git@github.com:sno-mephi/sbrbase.git

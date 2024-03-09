@@ -1,0 +1,3 @@
+rootProject.name = 'SNO router_service'
+
+include ':sbrbase'
